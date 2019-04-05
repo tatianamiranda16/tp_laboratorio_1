@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1554487757 source:c:\users\user\desktop\codeblock\calculador\bibloteca.c
+
+1554489071 source:c:\users\user\desktop\codeblock\calculador\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bibloteca.h"
+
+1554489008 c:\users\user\desktop\codeblock\calculador\bibloteca.h
+
